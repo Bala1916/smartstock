@@ -1,0 +1,2 @@
+# SmartStock Final
+One-tap stock analysis for GitHub Pages. Enter a BharatStock API key once in the app; it is stored only in the browser and not committed to GitHub. Free BharatStock provides latest available EOD data and has a 50-request/day limit. This app scans 20 symbols using one batch quote request plus ratio requests. Do not refresh repeatedly. Scores are model signals, not guarantees or personalized financial advice.
